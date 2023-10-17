@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @NikiRaykov
-- 👀 I’m interested in ... programming with Java and researching curious things! It does not matter the field.
-- 🌱 I’m currently learning ... Java programming language
-- 💞️ I’m looking to collaborate on ... different kind of projects
-- 📫 How to reach me ... https://www.linkedin.com/in/niki-raykov-05a83720b/
-
-<!---
-NikiRaykov/NikiRaykov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const Niki: Developer = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Javascript"],
+    technologies: {
+        backEnd: ["Spring"],
+        frontEnd: ["Javascript, HTML & CSS"],
+        databases: ["MSSQL"]
+    },
+    education: ["Software University of Sofia", "English Language School of Rousse"],
+    hobbies: ["Football", "Cinema", "Hiking"],
+    goal: "Learn, grow, and gain experience in the field of web development"
+};
